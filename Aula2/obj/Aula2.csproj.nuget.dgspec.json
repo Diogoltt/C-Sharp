@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\diogogomes\\Documents\\development\\AulasDigix\\Aula2\\Aula2.csproj": {}
+    "C:\\Users\\diogogomes\\Documents\\development\\AprendizDigix\\Aula2\\Aula2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\diogogomes\\Documents\\development\\AulasDigix\\Aula2\\Aula2.csproj": {
+    "C:\\Users\\diogogomes\\Documents\\development\\AprendizDigix\\Aula2\\Aula2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\diogogomes\\Documents\\development\\AulasDigix\\Aula2\\Aula2.csproj",
+        "projectUniqueName": "C:\\Users\\diogogomes\\Documents\\development\\AprendizDigix\\Aula2\\Aula2.csproj",
         "projectName": "Aula2",
-        "projectPath": "C:\\Users\\diogogomes\\Documents\\development\\AulasDigix\\Aula2\\Aula2.csproj",
+        "projectPath": "C:\\Users\\diogogomes\\Documents\\development\\AprendizDigix\\Aula2\\Aula2.csproj",
         "packagesPath": "C:\\Users\\diogogomes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\diogogomes\\Documents\\development\\AulasDigix\\Aula2\\obj\\",
+        "outputPath": "C:\\Users\\diogogomes\\Documents\\development\\AprendizDigix\\Aula2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\diogogomes\\AppData\\Roaming\\NuGet\\NuGet.Config",
