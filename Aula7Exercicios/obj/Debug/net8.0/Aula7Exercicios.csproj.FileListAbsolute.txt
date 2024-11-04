@@ -1,0 +1,15 @@
+C:\Users\diogogomes\Documents\development\AulasDigix2\AprendizDigix\Aula7Exercicios\bin\Debug\net8.0\Aula7Exercicios.exe
+C:\Users\diogogomes\Documents\development\AulasDigix2\AprendizDigix\Aula7Exercicios\bin\Debug\net8.0\Aula7Exercicios.deps.json
+C:\Users\diogogomes\Documents\development\AulasDigix2\AprendizDigix\Aula7Exercicios\bin\Debug\net8.0\Aula7Exercicios.runtimeconfig.json
+C:\Users\diogogomes\Documents\development\AulasDigix2\AprendizDigix\Aula7Exercicios\bin\Debug\net8.0\Aula7Exercicios.dll
+C:\Users\diogogomes\Documents\development\AulasDigix2\AprendizDigix\Aula7Exercicios\bin\Debug\net8.0\Aula7Exercicios.pdb
+C:\Users\diogogomes\Documents\development\AulasDigix2\AprendizDigix\Aula7Exercicios\obj\Debug\net8.0\Aula7Exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogogomes\Documents\development\AulasDigix2\AprendizDigix\Aula7Exercicios\obj\Debug\net8.0\Aula7Exercicios.AssemblyInfoInputs.cache
+C:\Users\diogogomes\Documents\development\AulasDigix2\AprendizDigix\Aula7Exercicios\obj\Debug\net8.0\Aula7Exercicios.AssemblyInfo.cs
+C:\Users\diogogomes\Documents\development\AulasDigix2\AprendizDigix\Aula7Exercicios\obj\Debug\net8.0\Aula7Exercicios.csproj.CoreCompileInputs.cache
+C:\Users\diogogomes\Documents\development\AulasDigix2\AprendizDigix\Aula7Exercicios\obj\Debug\net8.0\Aula7Exercicios.sourcelink.json
+C:\Users\diogogomes\Documents\development\AulasDigix2\AprendizDigix\Aula7Exercicios\obj\Debug\net8.0\Aula7Exercicios.dll
+C:\Users\diogogomes\Documents\development\AulasDigix2\AprendizDigix\Aula7Exercicios\obj\Debug\net8.0\refint\Aula7Exercicios.dll
+C:\Users\diogogomes\Documents\development\AulasDigix2\AprendizDigix\Aula7Exercicios\obj\Debug\net8.0\Aula7Exercicios.pdb
+C:\Users\diogogomes\Documents\development\AulasDigix2\AprendizDigix\Aula7Exercicios\obj\Debug\net8.0\Aula7Exercicios.genruntimeconfig.cache
+C:\Users\diogogomes\Documents\development\AulasDigix2\AprendizDigix\Aula7Exercicios\obj\Debug\net8.0\ref\Aula7Exercicios.dll
