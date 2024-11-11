@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\diogogomes\\Documents\\development\\AulasDigix2\\AprendizDigix\\Aula7\\Aula7.csproj": {}
+    "C:\\Users\\diogogomes\\Documents\\development\\AulasDotnet\\AprendizDigix\\Aula7\\Aula7.csproj": {}
   },
   "projects": {
-    "C:\\Users\\diogogomes\\Documents\\development\\AulasDigix2\\AprendizDigix\\Aula7\\Aula7.csproj": {
+    "C:\\Users\\diogogomes\\Documents\\development\\AulasDotnet\\AprendizDigix\\Aula7\\Aula7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\diogogomes\\Documents\\development\\AulasDigix2\\AprendizDigix\\Aula7\\Aula7.csproj",
+        "projectUniqueName": "C:\\Users\\diogogomes\\Documents\\development\\AulasDotnet\\AprendizDigix\\Aula7\\Aula7.csproj",
         "projectName": "Aula7",
-        "projectPath": "C:\\Users\\diogogomes\\Documents\\development\\AulasDigix2\\AprendizDigix\\Aula7\\Aula7.csproj",
+        "projectPath": "C:\\Users\\diogogomes\\Documents\\development\\AulasDotnet\\AprendizDigix\\Aula7\\Aula7.csproj",
         "packagesPath": "C:\\Users\\diogogomes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\diogogomes\\Documents\\development\\AulasDigix2\\AprendizDigix\\Aula7\\obj\\",
+        "outputPath": "C:\\Users\\diogogomes\\Documents\\development\\AulasDotnet\\AprendizDigix\\Aula7\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\diogogomes\\AppData\\Roaming\\NuGet\\NuGet.Config",

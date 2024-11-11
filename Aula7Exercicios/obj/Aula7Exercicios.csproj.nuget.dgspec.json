@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\diogogomes\\Documents\\development\\AulasDigix2\\AprendizDigix\\Aula7Exercicios\\Aula7Exercicios.csproj": {}
+    "C:\\Users\\diogogomes\\Documents\\development\\AulasDotnet\\AprendizDigix\\Aula7Exercicios\\Aula7Exercicios.csproj": {}
   },
   "projects": {
-    "C:\\Users\\diogogomes\\Documents\\development\\AulasDigix2\\AprendizDigix\\Aula7Exercicios\\Aula7Exercicios.csproj": {
+    "C:\\Users\\diogogomes\\Documents\\development\\AulasDotnet\\AprendizDigix\\Aula7Exercicios\\Aula7Exercicios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\diogogomes\\Documents\\development\\AulasDigix2\\AprendizDigix\\Aula7Exercicios\\Aula7Exercicios.csproj",
+        "projectUniqueName": "C:\\Users\\diogogomes\\Documents\\development\\AulasDotnet\\AprendizDigix\\Aula7Exercicios\\Aula7Exercicios.csproj",
         "projectName": "Aula7Exercicios",
-        "projectPath": "C:\\Users\\diogogomes\\Documents\\development\\AulasDigix2\\AprendizDigix\\Aula7Exercicios\\Aula7Exercicios.csproj",
+        "projectPath": "C:\\Users\\diogogomes\\Documents\\development\\AulasDotnet\\AprendizDigix\\Aula7Exercicios\\Aula7Exercicios.csproj",
         "packagesPath": "C:\\Users\\diogogomes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\diogogomes\\Documents\\development\\AulasDigix2\\AprendizDigix\\Aula7Exercicios\\obj\\",
+        "outputPath": "C:\\Users\\diogogomes\\Documents\\development\\AulasDotnet\\AprendizDigix\\Aula7Exercicios\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\diogogomes\\AppData\\Roaming\\NuGet\\NuGet.Config",
