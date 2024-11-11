@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\diogogomes\\Documents\\development\\AulasDotnet\\AprendizDigix\\Aula10\\Aula10.csproj",
+      "projectUniqueName": "C:\\Users\\diogogomes\\Documents\\development\\TesteRider\\AprendizDigix\\Aula10\\Aula10.csproj",
       "projectName": "Aula10",
-      "projectPath": "C:\\Users\\diogogomes\\Documents\\development\\AulasDotnet\\AprendizDigix\\Aula10\\Aula10.csproj",
+      "projectPath": "C:\\Users\\diogogomes\\Documents\\development\\TesteRider\\AprendizDigix\\Aula10\\Aula10.csproj",
       "packagesPath": "C:\\Users\\diogogomes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\diogogomes\\Documents\\development\\AulasDotnet\\AprendizDigix\\Aula10\\obj\\",
+      "outputPath": "C:\\Users\\diogogomes\\Documents\\development\\TesteRider\\AprendizDigix\\Aula10\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\diogogomes\\AppData\\Roaming\\NuGet\\NuGet.Config",

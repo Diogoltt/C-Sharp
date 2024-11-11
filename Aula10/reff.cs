@@ -19,7 +19,7 @@ namespace Aula10 {
             return x * x;
         }
 
-        static void Main(string[] args)
+        static void teste()
         {
             int a = 10;
             Console.WriteLine(Quadrado(a)); // Imprime o quadrado de 'a' mas não altera 'a'
