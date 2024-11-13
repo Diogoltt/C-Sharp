@@ -1,0 +1,15 @@
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExerciciosFuncaoRecursao\bin\Debug\net8.0\ExerciciosFuncaoRecursao.exe
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExerciciosFuncaoRecursao\bin\Debug\net8.0\ExerciciosFuncaoRecursao.deps.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExerciciosFuncaoRecursao\bin\Debug\net8.0\ExerciciosFuncaoRecursao.runtimeconfig.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExerciciosFuncaoRecursao\bin\Debug\net8.0\ExerciciosFuncaoRecursao.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExerciciosFuncaoRecursao\bin\Debug\net8.0\ExerciciosFuncaoRecursao.pdb
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExerciciosFuncaoRecursao\obj\Debug\net8.0\ExerciciosFuncaoRecursao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExerciciosFuncaoRecursao\obj\Debug\net8.0\ExerciciosFuncaoRecursao.AssemblyInfoInputs.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExerciciosFuncaoRecursao\obj\Debug\net8.0\ExerciciosFuncaoRecursao.AssemblyInfo.cs
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExerciciosFuncaoRecursao\obj\Debug\net8.0\ExerciciosFuncaoRecursao.csproj.CoreCompileInputs.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExerciciosFuncaoRecursao\obj\Debug\net8.0\ExerciciosFuncaoRecursao.sourcelink.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExerciciosFuncaoRecursao\obj\Debug\net8.0\ExerciciosFuncaoRecursao.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExerciciosFuncaoRecursao\obj\Debug\net8.0\refint\ExerciciosFuncaoRecursao.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExerciciosFuncaoRecursao\obj\Debug\net8.0\ExerciciosFuncaoRecursao.pdb
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExerciciosFuncaoRecursao\obj\Debug\net8.0\ExerciciosFuncaoRecursao.genruntimeconfig.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExerciciosFuncaoRecursao\obj\Debug\net8.0\ref\ExerciciosFuncaoRecursao.dll
