@@ -14,7 +14,7 @@ public class Exercicio4
         }
     }
 
-    static void Main(string[] args)
+    static void teste()
         {
             Console.WriteLine("Digite o primeiro valor: ");
             int a = int.Parse(Console.ReadLine());
