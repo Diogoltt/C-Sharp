@@ -1,0 +1,15 @@
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExerciciosOrdenacao\obj\Debug\net8.0\ExerciciosOrdenacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExerciciosOrdenacao\obj\Debug\net8.0\ExerciciosOrdenacao.AssemblyInfoInputs.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExerciciosOrdenacao\obj\Debug\net8.0\ExerciciosOrdenacao.AssemblyInfo.cs
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExerciciosOrdenacao\obj\Debug\net8.0\ExerciciosOrdenacao.csproj.CoreCompileInputs.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExerciciosOrdenacao\obj\Debug\net8.0\ExerciciosOrdenacao.sourcelink.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExerciciosOrdenacao\bin\Debug\net8.0\ExerciciosOrdenacao.exe
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExerciciosOrdenacao\bin\Debug\net8.0\ExerciciosOrdenacao.deps.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExerciciosOrdenacao\bin\Debug\net8.0\ExerciciosOrdenacao.runtimeconfig.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExerciciosOrdenacao\bin\Debug\net8.0\ExerciciosOrdenacao.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExerciciosOrdenacao\bin\Debug\net8.0\ExerciciosOrdenacao.pdb
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExerciciosOrdenacao\obj\Debug\net8.0\ExerciciosOrdenacao.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExerciciosOrdenacao\obj\Debug\net8.0\refint\ExerciciosOrdenacao.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExerciciosOrdenacao\obj\Debug\net8.0\ExerciciosOrdenacao.pdb
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExerciciosOrdenacao\obj\Debug\net8.0\ExerciciosOrdenacao.genruntimeconfig.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExerciciosOrdenacao\obj\Debug\net8.0\ref\ExerciciosOrdenacao.dll
