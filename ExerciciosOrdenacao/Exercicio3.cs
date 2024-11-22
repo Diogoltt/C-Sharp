@@ -4,38 +4,41 @@ namespace ExerciciosOrdenacao
 {
     public class Exercicio3
     {
-        static void Ordenar(string[] vetor)
+        static void SelectionSort(string[] array)
         {
-            int menor;
-            string aux;
-            for (int i = 0; i < vetor.Length - 1; i++)
+            for (int i = 0; i < array.Length - 1; i++)
             {
-                menor = i;
-                for (int j = i + 1; j < vetor.Length; j++)
+                int menorIndice = i;
+                for (int j = i + 1; j < array.Length; j++)  // fix: start from i+1
                 {
-                    if (CompararStrings(vetor[j], vetor[menor]) < 0)
+                    if (ehMenor(array[j], array[menorIndice]))
                     {
-                        menor = j;
+                        menorIndice = j;
                     }
                 }
 
-                aux = vetor[i];
-                vetor[i] = vetor[menor];
-                vetor[menor] = aux;
+                string temp = array[i];
+                array[i] = array[menorIndice];
+                array[menorIndice] = temp;
             }
         }
 
-        static int CompararStrings(string str1, string str2)
+        static bool ehMenor(string a, string b)
         {
-            int minLength = str1.Length < str2.Length ? str1.Length : str2.Length;
-            for (int i = 0; i < minLength; i++)
+            int tamanho = Math.Min(a.Length, b.Length);
+            for (int i = 0; i < tamanho; i++)
             {
-                if (str1[i] != str2[i])
+                if (a[i] < b[i])
                 {
-                    return str1[i] - str2[i];
+                    return true;
+                }
+                else if (a[i] > b[i])
+                {
+                    return false;
                 }
             }
-            return str1.Length - str2.Length;
+
+            return a.Length < b.Length;
         }
 
         static void Imprimir(string[] vetor)
@@ -63,7 +66,7 @@ namespace ExerciciosOrdenacao
         static void teste()
         {
             string[] vetor = RecebeNomes();
-            Ordenar(vetor);
+            SelectionSort(vetor); 
             Imprimir(vetor);
         }
     }

@@ -58,6 +58,72 @@ namespace ExerciciosOrdenacao
             }
         }
 
+        static void OrdenarMerge(int[] vetor)
+        {
+            if (vetor.Length <= 1)
+                return;
+
+            int meio = vetor.Length / 2;
+            int[] esquerda = new int[meio];
+            int[] direita = new int[vetor.Length - meio];
+
+            Array.Copy(vetor, esquerda, meio);
+            Array.Copy(vetor, meio, direita, 0, vetor.Length - meio);
+
+            OrdenarMerge(esquerda);
+            OrdenarMerge(direita);
+
+            Merge(vetor, esquerda, direita);
+        }
+
+        static void Merge(int[] vetor, int[] esquerda, int[] direita)
+        {
+            int i = 0, j = 0, k = 0;
+            while (i < esquerda.Length && j < direita.Length)
+            {
+                if (esquerda[i] <= direita[j])
+                    vetor[k++] = esquerda[i++];
+                else
+                    vetor[k++] = direita[j++];
+            }
+
+            while (i < esquerda.Length)
+                vetor[k++] = esquerda[i++];
+
+            while (j < direita.Length)
+                vetor[k++] = direita[j++];
+        }
+
+        static void OrdenarQuick(int[] vetor, int inicio, int fim)
+        {
+            if (inicio < fim)
+            {
+                int p = Particionar(vetor, inicio, fim);
+                OrdenarQuick(vetor, inicio, p - 1);
+                OrdenarQuick(vetor, p + 1, fim);
+            }
+        }
+
+        static int Particionar(int[] vetor, int inicio, int fim)
+        {
+            int pivo = vetor[fim];
+            int i = inicio - 1;
+            for (int j = inicio; j < fim; j++)
+            {
+                if (vetor[j] < pivo)
+                {
+                    i++;
+                    int aux = vetor[i];
+                    vetor[i] = vetor[j];
+                    vetor[j] = aux;
+                }
+            }
+            int temp = vetor[i + 1];
+            vetor[i + 1] = vetor[fim];
+            vetor[fim] = temp;
+            return i + 1;
+        }
+
         static void Imprimir(int[] vetor)
         {
             for (int i = 0; i < vetor.Length; i++)
@@ -80,11 +146,13 @@ namespace ExerciciosOrdenacao
 
         static void Main(string[] args)
         {
-            int tamanho = 10000;
+            int tamanho = 200000;
             int[] vetor = GerarArrayAleatorio(tamanho);
             int[] vetorBubble = (int[])vetor.Clone();
             int[] vetorInsertion = (int[])vetor.Clone();
             int[] vetorSelection = (int[])vetor.Clone();
+            int[] vetorMerge = (int[])vetor.Clone();
+            int[] vetorQuick = (int[])vetor.Clone();
 
             Stopwatch stopwatch = new Stopwatch();
 
@@ -106,9 +174,23 @@ namespace ExerciciosOrdenacao
             long tempoSelection = stopwatch.ElapsedMilliseconds;
             Console.WriteLine($"Selection Sort: {tempoSelection} ms");
 
-            long menorTempo = Math.Min(tempoBubble, Math.Min(tempoInsertion, tempoSelection));
+            stopwatch.Restart();
+            OrdenarMerge(vetorMerge);
+            stopwatch.Stop();
+            long tempoMerge = stopwatch.ElapsedMilliseconds;
+            Console.WriteLine($"Merge Sort: {tempoMerge} ms");
+
+            stopwatch.Restart();
+            OrdenarQuick(vetorQuick, 0, vetorQuick.Length - 1);
+            stopwatch.Stop();
+            long tempoQuick = stopwatch.ElapsedMilliseconds;
+            Console.WriteLine($"Quick Sort: {tempoQuick} ms");
+
+            long menorTempo = Math.Min(tempoBubble, Math.Min(tempoInsertion, Math.Min(tempoSelection, Math.Min(tempoMerge, tempoQuick))));
             string melhorAlgoritmo = tempoBubble == menorTempo ? "Bubble Sort" :
-                                      tempoInsertion == menorTempo ? "Insertion Sort" : "Selection Sort";
+                                      tempoInsertion == menorTempo ? "Insertion Sort" :
+                                      tempoSelection == menorTempo ? "Selection Sort" :
+                                      tempoMerge == menorTempo ? "Merge Sort" : "Quick Sort";
             Console.WriteLine($"Melhor desempenho: {melhorAlgoritmo}");
         }
     }
