@@ -1,0 +1,15 @@
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula14Exercicios\bin\Debug\net8.0\Aula14Exercicios.exe
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula14Exercicios\bin\Debug\net8.0\Aula14Exercicios.deps.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula14Exercicios\bin\Debug\net8.0\Aula14Exercicios.runtimeconfig.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula14Exercicios\bin\Debug\net8.0\Aula14Exercicios.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula14Exercicios\bin\Debug\net8.0\Aula14Exercicios.pdb
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula14Exercicios\obj\Debug\net8.0\Aula14Exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula14Exercicios\obj\Debug\net8.0\Aula14Exercicios.AssemblyInfoInputs.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula14Exercicios\obj\Debug\net8.0\Aula14Exercicios.AssemblyInfo.cs
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula14Exercicios\obj\Debug\net8.0\Aula14Exercicios.csproj.CoreCompileInputs.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula14Exercicios\obj\Debug\net8.0\Aula14Exercicios.sourcelink.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula14Exercicios\obj\Debug\net8.0\Aula14Exercicios.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula14Exercicios\obj\Debug\net8.0\refint\Aula14Exercicios.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula14Exercicios\obj\Debug\net8.0\Aula14Exercicios.pdb
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula14Exercicios\obj\Debug\net8.0\Aula14Exercicios.genruntimeconfig.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula14Exercicios\obj\Debug\net8.0\ref\Aula14Exercicios.dll
