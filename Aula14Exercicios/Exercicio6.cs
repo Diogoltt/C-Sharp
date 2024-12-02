@@ -72,7 +72,7 @@ namespace Aula14Exercicios
             return contador;
         }
 
-        static void Main(string[] args)
+        static void teste(string[] args)
         {
             Enfileirar(10);
             Enfileirar(20);
