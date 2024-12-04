@@ -1,0 +1,15 @@
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula15_OO\bin\Debug\net8.0\Aula15_OO.exe
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula15_OO\bin\Debug\net8.0\Aula15_OO.deps.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula15_OO\bin\Debug\net8.0\Aula15_OO.runtimeconfig.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula15_OO\bin\Debug\net8.0\Aula15_OO.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula15_OO\bin\Debug\net8.0\Aula15_OO.pdb
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula15_OO\obj\Debug\net8.0\Aula15_OO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula15_OO\obj\Debug\net8.0\Aula15_OO.AssemblyInfoInputs.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula15_OO\obj\Debug\net8.0\Aula15_OO.AssemblyInfo.cs
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula15_OO\obj\Debug\net8.0\Aula15_OO.csproj.CoreCompileInputs.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula15_OO\obj\Debug\net8.0\Aula15_OO.sourcelink.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula15_OO\obj\Debug\net8.0\Aula15_OO.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula15_OO\obj\Debug\net8.0\refint\Aula15_OO.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula15_OO\obj\Debug\net8.0\Aula15_OO.pdb
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula15_OO\obj\Debug\net8.0\Aula15_OO.genruntimeconfig.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula15_OO\obj\Debug\net8.0\ref\Aula15_OO.dll
