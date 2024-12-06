@@ -1,0 +1,15 @@
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula16_ExercicioAnimal\bin\Debug\net8.0\Aula16_ExercicioAnimal.exe
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula16_ExercicioAnimal\bin\Debug\net8.0\Aula16_ExercicioAnimal.deps.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula16_ExercicioAnimal\bin\Debug\net8.0\Aula16_ExercicioAnimal.runtimeconfig.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula16_ExercicioAnimal\bin\Debug\net8.0\Aula16_ExercicioAnimal.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula16_ExercicioAnimal\bin\Debug\net8.0\Aula16_ExercicioAnimal.pdb
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula16_ExercicioAnimal\obj\Debug\net8.0\Aula16_ExercicioAnimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula16_ExercicioAnimal\obj\Debug\net8.0\Aula16_ExercicioAnimal.AssemblyInfoInputs.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula16_ExercicioAnimal\obj\Debug\net8.0\Aula16_ExercicioAnimal.AssemblyInfo.cs
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula16_ExercicioAnimal\obj\Debug\net8.0\Aula16_ExercicioAnimal.csproj.CoreCompileInputs.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula16_ExercicioAnimal\obj\Debug\net8.0\Aula16_ExercicioAnimal.sourcelink.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula16_ExercicioAnimal\obj\Debug\net8.0\Aula16_ExercicioAnimal.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula16_ExercicioAnimal\obj\Debug\net8.0\refint\Aula16_ExercicioAnimal.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula16_ExercicioAnimal\obj\Debug\net8.0\Aula16_ExercicioAnimal.pdb
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula16_ExercicioAnimal\obj\Debug\net8.0\Aula16_ExercicioAnimal.genruntimeconfig.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula16_ExercicioAnimal\obj\Debug\net8.0\ref\Aula16_ExercicioAnimal.dll
