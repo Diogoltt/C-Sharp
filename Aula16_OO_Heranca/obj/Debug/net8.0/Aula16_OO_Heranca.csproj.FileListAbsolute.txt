@@ -1,0 +1,15 @@
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula16_OO_Heranca\bin\Debug\net8.0\Aula16_OO_Heranca.exe
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula16_OO_Heranca\bin\Debug\net8.0\Aula16_OO_Heranca.deps.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula16_OO_Heranca\bin\Debug\net8.0\Aula16_OO_Heranca.runtimeconfig.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula16_OO_Heranca\bin\Debug\net8.0\Aula16_OO_Heranca.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula16_OO_Heranca\bin\Debug\net8.0\Aula16_OO_Heranca.pdb
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula16_OO_Heranca\obj\Debug\net8.0\Aula16_OO_Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula16_OO_Heranca\obj\Debug\net8.0\Aula16_OO_Heranca.AssemblyInfoInputs.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula16_OO_Heranca\obj\Debug\net8.0\Aula16_OO_Heranca.AssemblyInfo.cs
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula16_OO_Heranca\obj\Debug\net8.0\Aula16_OO_Heranca.csproj.CoreCompileInputs.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula16_OO_Heranca\obj\Debug\net8.0\Aula16_OO_Heranca.sourcelink.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula16_OO_Heranca\obj\Debug\net8.0\Aula16_OO_Heranca.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula16_OO_Heranca\obj\Debug\net8.0\refint\Aula16_OO_Heranca.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula16_OO_Heranca\obj\Debug\net8.0\Aula16_OO_Heranca.pdb
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula16_OO_Heranca\obj\Debug\net8.0\Aula16_OO_Heranca.genruntimeconfig.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula16_OO_Heranca\obj\Debug\net8.0\ref\Aula16_OO_Heranca.dll
