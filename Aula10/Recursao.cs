@@ -1,6 +1,6 @@
 namespace Aula10;
 
-public class Recursao
+public class f3Recursao
 {
     static int[] ObterPares(int[] vetor, int indice = 0)
     {

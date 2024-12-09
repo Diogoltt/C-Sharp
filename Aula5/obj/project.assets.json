@@ -13,12 +13,13 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\diogogomes\\Documents\\development\\AulasDotnet\\AprendizDigix\\Aula5\\Aula5.csproj",
+      "projectUniqueName": "C:\\Users\\diogogomes\\Documents\\development\\AulasCSharp\\AprendizDigix\\Aula5\\Aula5.csproj",
       "projectName": "Aula5",
-      "projectPath": "C:\\Users\\diogogomes\\Documents\\development\\AulasDotnet\\AprendizDigix\\Aula5\\Aula5.csproj",
+      "projectPath": "C:\\Users\\diogogomes\\Documents\\development\\AulasCSharp\\AprendizDigix\\Aula5\\Aula5.csproj",
       "packagesPath": "C:\\Users\\diogogomes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\diogogomes\\Documents\\development\\AulasDotnet\\AprendizDigix\\Aula5\\obj\\",
+      "outputPath": "C:\\Users\\diogogomes\\Documents\\development\\AulasCSharp\\AprendizDigix\\Aula5\\obj\\",
       "projectStyle": "PackageReference",
+      "UsingMicrosoftNETSdk": false,
       "configFilePaths": [
         "C:\\Users\\diogogomes\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"

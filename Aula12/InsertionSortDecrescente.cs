@@ -5,11 +5,11 @@ namespace Aula12
         static void Ordenar(int[] vetor)
         {
             int aux, j;
-            for (int i = 0; i < vetor.Length; i++)
+            for (int i = 1; i < vetor.Length; i++)
             {
                 aux = vetor[i];
                 j = i - 1;
-                while (j >= 0 && vetor[j] > aux)
+                while (j >= 0 && vetor[j] < aux)
                 {
                     vetor[j + 1] = vetor[j];
                     j--;
