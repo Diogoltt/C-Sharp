@@ -1,0 +1,15 @@
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula17Visibilidade\bin\Debug\net8.0\Aula17Visibilidade.exe
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula17Visibilidade\bin\Debug\net8.0\Aula17Visibilidade.deps.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula17Visibilidade\bin\Debug\net8.0\Aula17Visibilidade.runtimeconfig.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula17Visibilidade\bin\Debug\net8.0\Aula17Visibilidade.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula17Visibilidade\bin\Debug\net8.0\Aula17Visibilidade.pdb
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula17Visibilidade\obj\Debug\net8.0\Aula17Visibilidade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula17Visibilidade\obj\Debug\net8.0\Aula17Visibilidade.AssemblyInfoInputs.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula17Visibilidade\obj\Debug\net8.0\Aula17Visibilidade.AssemblyInfo.cs
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula17Visibilidade\obj\Debug\net8.0\Aula17Visibilidade.csproj.CoreCompileInputs.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula17Visibilidade\obj\Debug\net8.0\Aula17Visibilidade.sourcelink.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula17Visibilidade\obj\Debug\net8.0\Aula17Visibilidade.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula17Visibilidade\obj\Debug\net8.0\refint\Aula17Visibilidade.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula17Visibilidade\obj\Debug\net8.0\Aula17Visibilidade.pdb
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula17Visibilidade\obj\Debug\net8.0\Aula17Visibilidade.genruntimeconfig.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula17Visibilidade\obj\Debug\net8.0\ref\Aula17Visibilidade.dll

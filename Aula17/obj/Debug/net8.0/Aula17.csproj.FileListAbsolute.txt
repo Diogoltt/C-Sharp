@@ -1,0 +1,15 @@
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula17\bin\Debug\net8.0\Aula17.exe
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula17\bin\Debug\net8.0\Aula17.deps.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula17\bin\Debug\net8.0\Aula17.runtimeconfig.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula17\bin\Debug\net8.0\Aula17.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula17\bin\Debug\net8.0\Aula17.pdb
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula17\obj\Debug\net8.0\Aula17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula17\obj\Debug\net8.0\Aula17.AssemblyInfoInputs.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula17\obj\Debug\net8.0\Aula17.AssemblyInfo.cs
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula17\obj\Debug\net8.0\Aula17.csproj.CoreCompileInputs.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula17\obj\Debug\net8.0\Aula17.sourcelink.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula17\obj\Debug\net8.0\Aula17.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula17\obj\Debug\net8.0\refint\Aula17.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula17\obj\Debug\net8.0\Aula17.pdb
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula17\obj\Debug\net8.0\Aula17.genruntimeconfig.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula17\obj\Debug\net8.0\ref\Aula17.dll
