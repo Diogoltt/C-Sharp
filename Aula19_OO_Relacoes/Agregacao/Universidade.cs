@@ -1,7 +1,7 @@
 namespace Aula19_OO_Relacoes
 {
     public class Universidade
-    {
+    {   
         public Professor professor;
         public Universidade(Professor professor)
         {
