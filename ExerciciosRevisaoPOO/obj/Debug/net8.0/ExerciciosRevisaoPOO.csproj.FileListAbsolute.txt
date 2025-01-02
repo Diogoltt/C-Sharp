@@ -1,0 +1,15 @@
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExerciciosRevisaoPOO\bin\Debug\net8.0\ExerciciosRevisaoPOO.exe
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExerciciosRevisaoPOO\bin\Debug\net8.0\ExerciciosRevisaoPOO.deps.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExerciciosRevisaoPOO\bin\Debug\net8.0\ExerciciosRevisaoPOO.runtimeconfig.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExerciciosRevisaoPOO\bin\Debug\net8.0\ExerciciosRevisaoPOO.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExerciciosRevisaoPOO\bin\Debug\net8.0\ExerciciosRevisaoPOO.pdb
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExerciciosRevisaoPOO\obj\Debug\net8.0\ExerciciosRevisaoPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExerciciosRevisaoPOO\obj\Debug\net8.0\ExerciciosRevisaoPOO.AssemblyInfoInputs.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExerciciosRevisaoPOO\obj\Debug\net8.0\ExerciciosRevisaoPOO.AssemblyInfo.cs
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExerciciosRevisaoPOO\obj\Debug\net8.0\ExerciciosRevisaoPOO.csproj.CoreCompileInputs.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExerciciosRevisaoPOO\obj\Debug\net8.0\ExerciciosRevisaoPOO.sourcelink.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExerciciosRevisaoPOO\obj\Debug\net8.0\ExerciciosRevisaoPOO.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExerciciosRevisaoPOO\obj\Debug\net8.0\refint\ExerciciosRevisaoPOO.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExerciciosRevisaoPOO\obj\Debug\net8.0\ExerciciosRevisaoPOO.pdb
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExerciciosRevisaoPOO\obj\Debug\net8.0\ExerciciosRevisaoPOO.genruntimeconfig.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExerciciosRevisaoPOO\obj\Debug\net8.0\ref\ExerciciosRevisaoPOO.dll
