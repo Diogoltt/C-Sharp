@@ -81,6 +81,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioBiblioteca", "Exer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciciosRevisaoPOO", "ExerciciosRevisaoPOO\ExerciciosRevisaoPOO.csproj", "{84BC880A-C062-445C-81FF-2F845B97C3B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio3_Padaria", "Desafio3_Padaria\Desafio3_Padaria.csproj", "{6C2F2BE2-7335-48C3-A8FE-08858FD53670}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -239,6 +241,10 @@ Global
 		{84BC880A-C062-445C-81FF-2F845B97C3B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84BC880A-C062-445C-81FF-2F845B97C3B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84BC880A-C062-445C-81FF-2F845B97C3B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C2F2BE2-7335-48C3-A8FE-08858FD53670}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C2F2BE2-7335-48C3-A8FE-08858FD53670}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C2F2BE2-7335-48C3-A8FE-08858FD53670}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C2F2BE2-7335-48C3-A8FE-08858FD53670}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
