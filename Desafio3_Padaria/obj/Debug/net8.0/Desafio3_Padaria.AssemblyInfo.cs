@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Desafio3_Padaria")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34bbc8c028537c7bd53eb88e05e672e35e178721")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41f8af6f78f99c2193202474af66702c86122807")]
 [assembly: System.Reflection.AssemblyProductAttribute("Desafio3_Padaria")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Desafio3_Padaria")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

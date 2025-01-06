@@ -1,4 +1,4 @@
-﻿using ExerciciosRevisaoPOO.Exercicio3; // Alterar para .Exercicio2 ou .Exercicio1 para executá-los
+﻿using ExerciciosRevisaoPOO.Exercicio1; // Alterar para .Exercicio2 ou .Exercicio1 para executá-los
 
 namespace ExerciciosRevisaoPOO
 {
@@ -7,7 +7,7 @@ namespace ExerciciosRevisaoPOO
         static void Main(string[] args)
         {
             // Exercicio 1 --------------------------------------------------------------
-            /* System.Console.WriteLine("");
+            System.Console.WriteLine("");
             System.Console.WriteLine("Homem: ");
             var homem = new HomoSapiens();
             System.Console.WriteLine(homem.ObterDescricao());
@@ -20,7 +20,7 @@ namespace ExerciciosRevisaoPOO
             System.Console.WriteLine("");
             System.Console.WriteLine("Mosca: ");
             var mosca = new MuscaDomestica();
-            System.Console.WriteLine(mosca.ObterDescricao()); */
+            System.Console.WriteLine(mosca.ObterDescricao());
 
 
 
@@ -38,7 +38,7 @@ namespace ExerciciosRevisaoPOO
 
 
             // Exercicio 3 --------------------------------------------------------------
-            var caminhao = new Caminhao("Volvo FH", 500, 100, 4);
+            /* var caminhao = new Caminhao("Volvo FH", 500, 100, 4);
             var moto = new Moto("Honda CG", 80, 20);
             var carroA = new CarroPasseio("Toyota Corolla", 200, 50, "A");
             var utilitario = new Utilitario("Fiat Ducato", 300, 70, true);
@@ -53,7 +53,7 @@ namespace ExerciciosRevisaoPOO
             Console.WriteLine($"Valor da Diária: R$ {carroA.CalculaValorDiaria():F2}\n");
 
             Console.WriteLine(utilitario);
-            Console.WriteLine($"Valor da Diária: R$ {utilitario.CalculaValorDiaria():F2}\n");
+            Console.WriteLine($"Valor da Diária: R$ {utilitario.CalculaValorDiaria():F2}\n"); */
         }
     }
 }
