@@ -1,0 +1,15 @@
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Desafio3_Padaria\bin\Debug\net8.0\Desafio3_Padaria.exe
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Desafio3_Padaria\bin\Debug\net8.0\Desafio3_Padaria.deps.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Desafio3_Padaria\bin\Debug\net8.0\Desafio3_Padaria.runtimeconfig.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Desafio3_Padaria\bin\Debug\net8.0\Desafio3_Padaria.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Desafio3_Padaria\bin\Debug\net8.0\Desafio3_Padaria.pdb
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Desafio3_Padaria\obj\Debug\net8.0\Desafio3_Padaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Desafio3_Padaria\obj\Debug\net8.0\Desafio3_Padaria.AssemblyInfoInputs.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Desafio3_Padaria\obj\Debug\net8.0\Desafio3_Padaria.AssemblyInfo.cs
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Desafio3_Padaria\obj\Debug\net8.0\Desafio3_Padaria.csproj.CoreCompileInputs.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Desafio3_Padaria\obj\Debug\net8.0\Desafio3_Padaria.sourcelink.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Desafio3_Padaria\obj\Debug\net8.0\Desafio3_Padaria.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Desafio3_Padaria\obj\Debug\net8.0\refint\Desafio3_Padaria.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Desafio3_Padaria\obj\Debug\net8.0\Desafio3_Padaria.pdb
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Desafio3_Padaria\obj\Debug\net8.0\Desafio3_Padaria.genruntimeconfig.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Desafio3_Padaria\obj\Debug\net8.0\ref\Desafio3_Padaria.dll
