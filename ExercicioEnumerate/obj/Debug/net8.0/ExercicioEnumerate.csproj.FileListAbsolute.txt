@@ -1,0 +1,15 @@
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExercicioEnumerate\bin\Debug\net8.0\ExercicioEnumerate.exe
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExercicioEnumerate\bin\Debug\net8.0\ExercicioEnumerate.deps.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExercicioEnumerate\bin\Debug\net8.0\ExercicioEnumerate.runtimeconfig.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExercicioEnumerate\bin\Debug\net8.0\ExercicioEnumerate.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExercicioEnumerate\bin\Debug\net8.0\ExercicioEnumerate.pdb
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExercicioEnumerate\obj\Debug\net8.0\ExercicioEnumerate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExercicioEnumerate\obj\Debug\net8.0\ExercicioEnumerate.AssemblyInfoInputs.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExercicioEnumerate\obj\Debug\net8.0\ExercicioEnumerate.AssemblyInfo.cs
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExercicioEnumerate\obj\Debug\net8.0\ExercicioEnumerate.csproj.CoreCompileInputs.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExercicioEnumerate\obj\Debug\net8.0\ExercicioEnumerate.sourcelink.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExercicioEnumerate\obj\Debug\net8.0\ExercicioEnumerate.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExercicioEnumerate\obj\Debug\net8.0\refint\ExercicioEnumerate.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExercicioEnumerate\obj\Debug\net8.0\ExercicioEnumerate.pdb
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExercicioEnumerate\obj\Debug\net8.0\ExercicioEnumerate.genruntimeconfig.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExercicioEnumerate\obj\Debug\net8.0\ref\ExercicioEnumerate.dll
