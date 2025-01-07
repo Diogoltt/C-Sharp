@@ -1,0 +1,15 @@
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula22_Enumerate\bin\Debug\net8.0\Aula22_Enumerate.exe
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula22_Enumerate\bin\Debug\net8.0\Aula22_Enumerate.deps.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula22_Enumerate\bin\Debug\net8.0\Aula22_Enumerate.runtimeconfig.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula22_Enumerate\bin\Debug\net8.0\Aula22_Enumerate.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula22_Enumerate\bin\Debug\net8.0\Aula22_Enumerate.pdb
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula22_Enumerate\obj\Debug\net8.0\Aula22_Enumerate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula22_Enumerate\obj\Debug\net8.0\Aula22_Enumerate.AssemblyInfoInputs.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula22_Enumerate\obj\Debug\net8.0\Aula22_Enumerate.AssemblyInfo.cs
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula22_Enumerate\obj\Debug\net8.0\Aula22_Enumerate.csproj.CoreCompileInputs.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula22_Enumerate\obj\Debug\net8.0\Aula22_Enumerate.sourcelink.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula22_Enumerate\obj\Debug\net8.0\Aula22_Enumerate.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula22_Enumerate\obj\Debug\net8.0\refint\Aula22_Enumerate.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula22_Enumerate\obj\Debug\net8.0\Aula22_Enumerate.pdb
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula22_Enumerate\obj\Debug\net8.0\Aula22_Enumerate.genruntimeconfig.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula22_Enumerate\obj\Debug\net8.0\ref\Aula22_Enumerate.dll

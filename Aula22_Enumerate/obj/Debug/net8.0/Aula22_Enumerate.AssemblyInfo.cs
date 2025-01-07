@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aula22_Enumerate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b5a81643029db3091c36695165fb22c7a037315")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9d82dd1a026aa4b0a271e4fc3ac1f5676c98125")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aula22_Enumerate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aula22_Enumerate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
