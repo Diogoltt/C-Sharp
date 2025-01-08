@@ -1,0 +1,15 @@
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula23_Sealed\bin\Debug\net8.0\Aula23_Sealed.exe
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula23_Sealed\bin\Debug\net8.0\Aula23_Sealed.deps.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula23_Sealed\bin\Debug\net8.0\Aula23_Sealed.runtimeconfig.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula23_Sealed\bin\Debug\net8.0\Aula23_Sealed.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula23_Sealed\bin\Debug\net8.0\Aula23_Sealed.pdb
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula23_Sealed\obj\Debug\net8.0\Aula23_Sealed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula23_Sealed\obj\Debug\net8.0\Aula23_Sealed.AssemblyInfoInputs.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula23_Sealed\obj\Debug\net8.0\Aula23_Sealed.AssemblyInfo.cs
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula23_Sealed\obj\Debug\net8.0\Aula23_Sealed.csproj.CoreCompileInputs.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula23_Sealed\obj\Debug\net8.0\Aula23_Sealed.sourcelink.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula23_Sealed\obj\Debug\net8.0\Aula23_Sealed.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula23_Sealed\obj\Debug\net8.0\refint\Aula23_Sealed.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula23_Sealed\obj\Debug\net8.0\Aula23_Sealed.pdb
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula23_Sealed\obj\Debug\net8.0\Aula23_Sealed.genruntimeconfig.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula23_Sealed\obj\Debug\net8.0\ref\Aula23_Sealed.dll
