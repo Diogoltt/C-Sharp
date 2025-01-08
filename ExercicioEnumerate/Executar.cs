@@ -8,17 +8,17 @@
 
             Vendedor v1 = new Vendedor(
                 nome: "Diogo Leite", 
-                salario: 1000.0, 
+                salario: 240.0, 
                 licencasPremioRecebidas: 0,
                 tipoEmpregado: TipoEmpregado.Vendedor,
-                statusLicenca: StatusLicenca.Pendente,
+                statusLicenca: StatusLicenca.Aprovada,
                 comissao: 0.1,
                 regiao: RegiaoAtuacao.Sul
             );
 
             Vendedor v2 = new Vendedor(
                 nome: "Lahra Vieira", 
-                salario: 1200.0,
+                salario: 240.0,
                 licencasPremioRecebidas: 1,
                 tipoEmpregado: TipoEmpregado.Vendedor,
                 statusLicenca: StatusLicenca.Aprovada,
@@ -30,12 +30,12 @@
                 nome: "Carlos Oliveira",
                 regiao: RegiaoAtuacao.Leste
             );
-            gv.Salario = 3000.0;
+            gv.Salario = 480.0;
 
             GerenteProducao gp = new GerenteProducao(
                 nome: "Ana Pereira"
             );
-            gp.Salario = 3500.0;
+            gp.Salario = 480.0;
 
             empresa.Inserir(v1);
             empresa.Inserir(v2);

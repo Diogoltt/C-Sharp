@@ -27,7 +27,7 @@ namespace ExerciciosEnumerate
 
         public override double CalcularSalario()
         {
-            return base.CalcularSalario() * 2.0;
+            return Salario * 2.0;
         }
     }
 }

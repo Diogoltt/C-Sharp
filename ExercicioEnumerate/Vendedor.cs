@@ -14,7 +14,7 @@ namespace ExerciciosEnumerate
 
         public override double CalcularSalario()
         {
-            return Salario * Comissao;
+            return Salario + (Salario * Comissao);
         }
     }
 }

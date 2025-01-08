@@ -87,6 +87,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula22_Enumerate", "Aula22_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioEnumerate", "ExercicioEnumerate\ExercicioEnumerate.csproj", "{526AB4D1-1AD9-4620-B9D5-DDF26AD2031E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula23_Sealed", "Aula23_Sealed\Aula23_Sealed.csproj", "{A164454D-33A3-4DA6-A996-F6358D410E4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula24_Exceptions", "Aula24_Exceptions\Aula24_Exceptions.csproj", "{8F9DC889-BEE3-4BAE-8DC8-4B332F55E264}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -257,6 +261,14 @@ Global
 		{526AB4D1-1AD9-4620-B9D5-DDF26AD2031E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{526AB4D1-1AD9-4620-B9D5-DDF26AD2031E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{526AB4D1-1AD9-4620-B9D5-DDF26AD2031E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A164454D-33A3-4DA6-A996-F6358D410E4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A164454D-33A3-4DA6-A996-F6358D410E4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A164454D-33A3-4DA6-A996-F6358D410E4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A164454D-33A3-4DA6-A996-F6358D410E4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F9DC889-BEE3-4BAE-8DC8-4B332F55E264}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F9DC889-BEE3-4BAE-8DC8-4B332F55E264}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F9DC889-BEE3-4BAE-8DC8-4B332F55E264}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F9DC889-BEE3-4BAE-8DC8-4B332F55E264}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
