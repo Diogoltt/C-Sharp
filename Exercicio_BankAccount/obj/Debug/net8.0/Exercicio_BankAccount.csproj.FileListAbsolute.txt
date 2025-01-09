@@ -1,0 +1,15 @@
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Exercicio_BankAccount\bin\Debug\net8.0\Exercicio_BankAccount.exe
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Exercicio_BankAccount\bin\Debug\net8.0\Exercicio_BankAccount.deps.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Exercicio_BankAccount\bin\Debug\net8.0\Exercicio_BankAccount.runtimeconfig.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Exercicio_BankAccount\bin\Debug\net8.0\Exercicio_BankAccount.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Exercicio_BankAccount\bin\Debug\net8.0\Exercicio_BankAccount.pdb
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Exercicio_BankAccount\obj\Debug\net8.0\Exercicio_BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Exercicio_BankAccount\obj\Debug\net8.0\Exercicio_BankAccount.AssemblyInfoInputs.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Exercicio_BankAccount\obj\Debug\net8.0\Exercicio_BankAccount.AssemblyInfo.cs
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Exercicio_BankAccount\obj\Debug\net8.0\Exercicio_BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Exercicio_BankAccount\obj\Debug\net8.0\Exercicio_BankAccount.sourcelink.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Exercicio_BankAccount\obj\Debug\net8.0\Exercicio_BankAccount.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Exercicio_BankAccount\obj\Debug\net8.0\refint\Exercicio_BankAccount.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Exercicio_BankAccount\obj\Debug\net8.0\Exercicio_BankAccount.pdb
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Exercicio_BankAccount\obj\Debug\net8.0\Exercicio_BankAccount.genruntimeconfig.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Exercicio_BankAccount\obj\Debug\net8.0\ref\Exercicio_BankAccount.dll
