@@ -93,6 +93,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula24_Exceptions", "Aula24
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_BankAccount", "Exercicio_BankAccount\Exercicio_BankAccount.csproj", "{BB8A1FD5-2AD3-4F0C-9209-B532AF73AA17}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula25", "Aula25\Aula25.csproj", "{0100AEE2-488B-4861-A7F4-EA1057959E22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -275,6 +277,10 @@ Global
 		{BB8A1FD5-2AD3-4F0C-9209-B532AF73AA17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB8A1FD5-2AD3-4F0C-9209-B532AF73AA17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB8A1FD5-2AD3-4F0C-9209-B532AF73AA17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0100AEE2-488B-4861-A7F4-EA1057959E22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0100AEE2-488B-4861-A7F4-EA1057959E22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0100AEE2-488B-4861-A7F4-EA1057959E22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0100AEE2-488B-4861-A7F4-EA1057959E22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
