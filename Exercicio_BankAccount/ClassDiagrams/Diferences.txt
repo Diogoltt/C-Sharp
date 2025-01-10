@@ -1,0 +1,34 @@
+Principais Melhorias Implementadas: 
+Adição do TransactionType como Enum
+Foi adicionado um enumerador TransactionType com valores Deposit e Withdraw, tornando o código mais robusto.
+
+Refinamento da Classe Account:
+Tornou-se uma classe abstrata
+Adição do método CreateTransaction para centralizar a criação de transações
+
+Lista tipada de transações (List<ATMTransactions>)
+
+Melhorias na Classe Customer
+Adição do atributo privado PIN para maior segurança
+Implementação do método VerifyPassword para autenticação
+Melhor organização da lista de contas (List<Account>)
+
+Aprimoramento da Classe Bank
+Métodos mais específicos para gerenciamento de contas e clientes
+Relacionamentos mais claros com Customer e Account
+Implementação do método FindAccountByNumber para busca de contas
+
+Especialização de Contas
+Melhor definição das classes CurrentAccount e SavingAccount
+Adição do WithdrawLimit específico para CurrentAccount
+Override adequado do método Withdraw em CurrentAccount
+
+Classe ATMTransactions
+Melhor estruturação dos atributos com tipos específicos
+Adição do método ToString() para formatação das transações
+Integração com o enum TransactionType
+
+Relacionamentos
+Hierarquia clara entre Account e suas especializações
+Melhor controle das transações
+Histórico completo de operações
