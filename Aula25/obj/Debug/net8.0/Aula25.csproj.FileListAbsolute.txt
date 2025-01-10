@@ -1,0 +1,15 @@
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula25\bin\Debug\net8.0\Aula25.exe
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula25\bin\Debug\net8.0\Aula25.deps.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula25\bin\Debug\net8.0\Aula25.runtimeconfig.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula25\bin\Debug\net8.0\Aula25.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula25\bin\Debug\net8.0\Aula25.pdb
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula25\obj\Debug\net8.0\Aula25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula25\obj\Debug\net8.0\Aula25.AssemblyInfoInputs.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula25\obj\Debug\net8.0\Aula25.AssemblyInfo.cs
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula25\obj\Debug\net8.0\Aula25.csproj.CoreCompileInputs.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula25\obj\Debug\net8.0\Aula25.sourcelink.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula25\obj\Debug\net8.0\Aula25.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula25\obj\Debug\net8.0\refint\Aula25.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula25\obj\Debug\net8.0\Aula25.pdb
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula25\obj\Debug\net8.0\Aula25.genruntimeconfig.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula25\obj\Debug\net8.0\ref\Aula25.dll
