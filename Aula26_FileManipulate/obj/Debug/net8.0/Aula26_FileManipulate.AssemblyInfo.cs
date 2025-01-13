@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aula26_FileManipulate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60f0c38b336d2511a8cfafe3dc66f5bc9a531bcc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+deeb81b2f0dbc7e00cc6dddb7e54a65d942f1da7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aula26_FileManipulate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aula26_FileManipulate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

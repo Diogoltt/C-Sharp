@@ -13,3 +13,13 @@ C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula26_FileM
 C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula26_FileManipulate\obj\Debug\net8.0\Aula26_FileManipulate.pdb
 C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula26_FileManipulate\obj\Debug\net8.0\Aula26_FileManipulate.genruntimeconfig.cache
 C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula26_FileManipulate\obj\Debug\net8.0\ref\Aula26_FileManipulate.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula26_FileManipulate\bin\Debug\net8.0\ClosedXML.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula26_FileManipulate\bin\Debug\net8.0\ClosedXML.Parser.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula26_FileManipulate\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula26_FileManipulate\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula26_FileManipulate\bin\Debug\net8.0\ExcelNumberFormat.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula26_FileManipulate\bin\Debug\net8.0\RBush.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula26_FileManipulate\bin\Debug\net8.0\SixLabors.Fonts.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula26_FileManipulate\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula26_FileManipulate\obj\Debug\net8.0\Aula26_FileManipulate.csproj.AssemblyReference.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula26_FileManipulate\obj\Debug\net8.0\Aula26_F.2454D21D.Up2Date
