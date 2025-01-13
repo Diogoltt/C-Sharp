@@ -1,0 +1,15 @@
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula26_FileManipulate\bin\Debug\net8.0\Aula26_FileManipulate.exe
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula26_FileManipulate\bin\Debug\net8.0\Aula26_FileManipulate.deps.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula26_FileManipulate\bin\Debug\net8.0\Aula26_FileManipulate.runtimeconfig.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula26_FileManipulate\bin\Debug\net8.0\Aula26_FileManipulate.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula26_FileManipulate\bin\Debug\net8.0\Aula26_FileManipulate.pdb
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula26_FileManipulate\obj\Debug\net8.0\Aula26_FileManipulate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula26_FileManipulate\obj\Debug\net8.0\Aula26_FileManipulate.AssemblyInfoInputs.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula26_FileManipulate\obj\Debug\net8.0\Aula26_FileManipulate.AssemblyInfo.cs
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula26_FileManipulate\obj\Debug\net8.0\Aula26_FileManipulate.csproj.CoreCompileInputs.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula26_FileManipulate\obj\Debug\net8.0\Aula26_FileManipulate.sourcelink.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula26_FileManipulate\obj\Debug\net8.0\Aula26_FileManipulate.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula26_FileManipulate\obj\Debug\net8.0\refint\Aula26_FileManipulate.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula26_FileManipulate\obj\Debug\net8.0\Aula26_FileManipulate.pdb
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula26_FileManipulate\obj\Debug\net8.0\Aula26_FileManipulate.genruntimeconfig.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula26_FileManipulate\obj\Debug\net8.0\ref\Aula26_FileManipulate.dll
