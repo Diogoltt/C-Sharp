@@ -95,6 +95,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_BankAccount", "Ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula25", "Aula25\Aula25.csproj", "{0100AEE2-488B-4861-A7F4-EA1057959E22}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula26_FileManipulate", "Aula26_FileManipulate\Aula26_FileManipulate.csproj", "{611D26BF-D857-4360-B147-702C380A6C8D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -281,6 +283,10 @@ Global
 		{0100AEE2-488B-4861-A7F4-EA1057959E22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0100AEE2-488B-4861-A7F4-EA1057959E22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0100AEE2-488B-4861-A7F4-EA1057959E22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{611D26BF-D857-4360-B147-702C380A6C8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{611D26BF-D857-4360-B147-702C380A6C8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{611D26BF-D857-4360-B147-702C380A6C8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{611D26BF-D857-4360-B147-702C380A6C8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
