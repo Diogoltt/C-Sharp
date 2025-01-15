@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\diogogomes\\Documents\\development\\AulasCSharp\\AprendizDigix\\Aula26_FileManipulate\\Aula26_FileManipulate.csproj": {}
+    "C:\\Users\\diogogomes\\Documents\\development\\AulasCSharp\\AprendizDigix\\Aula27_FileManipulate\\Aula27_FileManipulate.csproj": {}
   },
   "projects": {
-    "C:\\Users\\diogogomes\\Documents\\development\\AulasCSharp\\AprendizDigix\\Aula26_FileManipulate\\Aula26_FileManipulate.csproj": {
+    "C:\\Users\\diogogomes\\Documents\\development\\AulasCSharp\\AprendizDigix\\Aula27_FileManipulate\\Aula27_FileManipulate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\diogogomes\\Documents\\development\\AulasCSharp\\AprendizDigix\\Aula26_FileManipulate\\Aula26_FileManipulate.csproj",
-        "projectName": "Aula26_FileManipulate",
-        "projectPath": "C:\\Users\\diogogomes\\Documents\\development\\AulasCSharp\\AprendizDigix\\Aula26_FileManipulate\\Aula26_FileManipulate.csproj",
+        "projectUniqueName": "C:\\Users\\diogogomes\\Documents\\development\\AulasCSharp\\AprendizDigix\\Aula27_FileManipulate\\Aula27_FileManipulate.csproj",
+        "projectName": "Aula27_FileManipulate",
+        "projectPath": "C:\\Users\\diogogomes\\Documents\\development\\AulasCSharp\\AprendizDigix\\Aula27_FileManipulate\\Aula27_FileManipulate.csproj",
         "packagesPath": "C:\\Users\\diogogomes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\diogogomes\\Documents\\development\\AulasCSharp\\AprendizDigix\\Aula26_FileManipulate\\obj\\",
+        "outputPath": "C:\\Users\\diogogomes\\Documents\\development\\AulasCSharp\\AprendizDigix\\Aula27_FileManipulate\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\diogogomes\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,10 +46,6 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "ClosedXML": {
-              "target": "Package",
-              "version": "[0.104.2, )"
-            },
             "CsvHelper": {
               "target": "Package",
               "version": "[33.0.1, )"
