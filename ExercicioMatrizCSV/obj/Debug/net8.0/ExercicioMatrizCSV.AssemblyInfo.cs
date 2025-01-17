@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExercicioMatrizCSV")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+893b460e11095179993d0f139b19e8dd15dafc43")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d7dca8bbd685ea4d2ef19d88e1f00b13e8c6c16")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExercicioMatrizCSV")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExercicioMatrizCSV")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
