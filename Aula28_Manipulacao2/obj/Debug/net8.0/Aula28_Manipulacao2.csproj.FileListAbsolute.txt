@@ -1,0 +1,15 @@
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula28_Manipulacao2\bin\Debug\net8.0\Aula28_Manipulacao2.exe
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula28_Manipulacao2\bin\Debug\net8.0\Aula28_Manipulacao2.deps.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula28_Manipulacao2\bin\Debug\net8.0\Aula28_Manipulacao2.runtimeconfig.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula28_Manipulacao2\bin\Debug\net8.0\Aula28_Manipulacao2.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula28_Manipulacao2\bin\Debug\net8.0\Aula28_Manipulacao2.pdb
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula28_Manipulacao2\obj\Debug\net8.0\Aula28_Manipulacao2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula28_Manipulacao2\obj\Debug\net8.0\Aula28_Manipulacao2.AssemblyInfoInputs.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula28_Manipulacao2\obj\Debug\net8.0\Aula28_Manipulacao2.AssemblyInfo.cs
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula28_Manipulacao2\obj\Debug\net8.0\Aula28_Manipulacao2.csproj.CoreCompileInputs.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula28_Manipulacao2\obj\Debug\net8.0\Aula28_Manipulacao2.sourcelink.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula28_Manipulacao2\obj\Debug\net8.0\Aula28_Manipulacao2.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula28_Manipulacao2\obj\Debug\net8.0\refint\Aula28_Manipulacao2.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula28_Manipulacao2\obj\Debug\net8.0\Aula28_Manipulacao2.pdb
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula28_Manipulacao2\obj\Debug\net8.0\Aula28_Manipulacao2.genruntimeconfig.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\Aula28_Manipulacao2\obj\Debug\net8.0\ref\Aula28_Manipulacao2.dll
