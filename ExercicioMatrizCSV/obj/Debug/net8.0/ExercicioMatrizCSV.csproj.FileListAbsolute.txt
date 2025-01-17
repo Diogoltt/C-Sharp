@@ -1,0 +1,15 @@
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExercicioMatrizCSV\bin\Debug\net8.0\ExercicioMatrizCSV.exe
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExercicioMatrizCSV\bin\Debug\net8.0\ExercicioMatrizCSV.deps.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExercicioMatrizCSV\bin\Debug\net8.0\ExercicioMatrizCSV.runtimeconfig.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExercicioMatrizCSV\bin\Debug\net8.0\ExercicioMatrizCSV.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExercicioMatrizCSV\bin\Debug\net8.0\ExercicioMatrizCSV.pdb
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExercicioMatrizCSV\obj\Debug\net8.0\ExercicioMatrizCSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExercicioMatrizCSV\obj\Debug\net8.0\ExercicioMatrizCSV.AssemblyInfoInputs.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExercicioMatrizCSV\obj\Debug\net8.0\ExercicioMatrizCSV.AssemblyInfo.cs
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExercicioMatrizCSV\obj\Debug\net8.0\ExercicioMatrizCSV.csproj.CoreCompileInputs.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExercicioMatrizCSV\obj\Debug\net8.0\ExercicioMatrizCSV.sourcelink.json
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExercicioMatrizCSV\obj\Debug\net8.0\ExercicioMatrizCSV.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExercicioMatrizCSV\obj\Debug\net8.0\refint\ExercicioMatrizCSV.dll
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExercicioMatrizCSV\obj\Debug\net8.0\ExercicioMatrizCSV.pdb
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExercicioMatrizCSV\obj\Debug\net8.0\ExercicioMatrizCSV.genruntimeconfig.cache
+C:\Users\diogogomes\Documents\development\AulasCSharp\AprendizDigix\ExercicioMatrizCSV\obj\Debug\net8.0\ref\ExercicioMatrizCSV.dll

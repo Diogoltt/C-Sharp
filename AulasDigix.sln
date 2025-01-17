@@ -99,6 +99,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula26_FileManipulate", "Au
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula27_FileManipulate", "Aula27_FileManipulate\Aula27_FileManipulate.csproj", "{06427990-9B63-41E7-8CCC-DC61CF572E6D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioMatrizCSV", "ExercicioMatrizCSV\ExercicioMatrizCSV.csproj", "{411D779D-D83F-41C1-ACD5-CC7AB0471F3E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -293,6 +295,10 @@ Global
 		{06427990-9B63-41E7-8CCC-DC61CF572E6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06427990-9B63-41E7-8CCC-DC61CF572E6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06427990-9B63-41E7-8CCC-DC61CF572E6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{411D779D-D83F-41C1-ACD5-CC7AB0471F3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{411D779D-D83F-41C1-ACD5-CC7AB0471F3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{411D779D-D83F-41C1-ACD5-CC7AB0471F3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{411D779D-D83F-41C1-ACD5-CC7AB0471F3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
